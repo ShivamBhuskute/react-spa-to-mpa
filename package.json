@@ -1,6 +1,6 @@
 {
   "name": "react-spa-to-mpa-converter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert a Single Page Application (SPA) into a Multi Page Application (MPA)",
   "main": "src/index.js",
   "type": "module",
