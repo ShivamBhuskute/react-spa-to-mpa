@@ -56,7 +56,7 @@ Now, every time you run `npm run build`, Vite will create the `dist` folder, and
 
 ---
 
-## 🚀 Deployment (Crucial Step)
+## Deployment (Crucial Step)
 
 Because your actual multi-page site is now located in `mpa-dist` (not `dist`), you must tell your hosting provider to deploy the correct folder!
 
